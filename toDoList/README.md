@@ -7,7 +7,7 @@ This repository contains the results of **Exploratory Bug Testing** on [ToDoList
 Exploratory testing involves freely interacting with the application to uncover defects without predefined test cases, using the tester’s knowledge and creativity.
 
 ## How to read this project
-Select 'View raw' or click on a 'Download raw file' button.
+Select the toDoList.docx file and click on 'View raw' or the 'Download raw file' button.
 
 ## Objectivess
 
