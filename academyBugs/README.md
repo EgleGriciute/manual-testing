@@ -1,4 +1,4 @@
-# Exploratory Bug Testing for AcademyBugs
+# Exploratory Bug Testing for AcademyBugs 🐞
 
 This repository contains the results of **Exploratory Bug Testing** on [AcademyBugs](https://academybugs.com/). The project focused on discovering bugs, usability issues, and other quality concerns through an exploratory testing approach.
 
