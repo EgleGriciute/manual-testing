@@ -6,6 +6,9 @@ This repository contains the results of **Exploratory Bug Testing** on [AcademyB
 
 Exploratory testing involves freely interacting with the application to uncover defects without predefined test cases, using the tester’s knowledge and creativity.
 
+## How to read this project
+Select 'View raw' or click on a 'Download raw file' button. 
+
 ## Objectives
 
 - Discover and document bugs and usability issues on the AcademyBugs platform.
